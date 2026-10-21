@@ -1,0 +1,7 @@
+interface:
+  display_name: "说清楚"
+  short_description: "用直白顺口的中文讲知识、复述需求和对接项目，保留关键条件与逻辑关系"
+  default_prompt: "请使用 $plain-talk，跟我说得更白话一些，句子自然顺口，保留关键信息、条件和逻辑关系。"
+
+policy:
+  allow_implicit_invocation: true
